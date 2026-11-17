@@ -7,7 +7,6 @@ A small FAQ chatbot written in plain Python (no libraries needed). You ask a que
 python faq_bot.py            # chat with the bot
 python faq_bot.py --eval     # measure accuracy on data/test.json
 ```
-(On Mac, use `python3`.)
 
 ## How it works
 1. Each FAQ question is split into words, with common words ("the", "how", "do") removed.
@@ -30,15 +29,3 @@ Most failures come from word forms the bot treats as different words: "applying"
 - [ ] Tune the threshold and plot accuracy against it
 - [ ] Add more test questions and report results per FAQ entry
 - [ ] Replace TF-IDF with sentence embeddings and compare
-
-## Note
-The FAQ answers in `data/faq.json` are sample text. Replace them with real information for your own use.
-
-## Tests
-```bash
-pip install pytest
-pytest -q tests
-```
-
-## License
-MIT
