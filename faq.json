@@ -1,0 +1,12 @@
+[
+ {"id": 1, "question": "How do I borrow a book from the library?", "answer": "Sample answer: bring your student card to the library desk or use the library app."},
+ {"id": 2, "question": "How do I connect to the campus Wi-Fi?", "answer": "Sample answer: choose the campus network and log in with your student account."},
+ {"id": 3, "question": "Where can I print documents?", "answer": "Sample answer: use the self-service printers in the library or teaching building."},
+ {"id": 4, "question": "How do I reset my student account password?", "answer": "Sample answer: use the password reset page or visit the IT help desk."},
+ {"id": 5, "question": "How do I apply for a scholarship?", "answer": "Sample answer: submit the application form to your department before the deadline."},
+ {"id": 6, "question": "When is the exam timetable released?", "answer": "Sample answer: the timetable is posted on the academic system a few weeks before exams."},
+ {"id": 7, "question": "How do I choose my courses for next semester?", "answer": "Sample answer: log into the course selection system during the selection period."},
+ {"id": 8, "question": "Where can I find my class schedule?", "answer": "Sample answer: your schedule is shown in the academic system under My Timetable."},
+ {"id": 9, "question": "How do I book a study room?", "answer": "Sample answer: reserve a room through the library booking page."},
+ {"id": 10, "question": "How do I get a student ID card replacement?", "answer": "Sample answer: report the loss and apply for a new card at the student service center."}
+]
